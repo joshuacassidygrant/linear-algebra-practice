@@ -13,3 +13,5 @@ class MatrixMultGenerator:
         print(m2)
         sol = m1@m2
         print(sol)
+
+        # TODO: create rational version
